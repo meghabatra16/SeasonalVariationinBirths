@@ -1,2 +1,3 @@
 # SeasonalVariationinBirths
-Data Analysis on Seasonal Variation In Births
+Analysis of the number of births every month for approximately 135 countries.
+
